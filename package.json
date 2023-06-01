@@ -1,0 +1,23 @@
+{
+  "name": "lab7_pis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarasmal/lab7_pis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarasmal/lab7_pis/issues"
+  },
+  "homepage": "https://github.com/tarasmal/lab7_pis#readme",
+  "dependencies": {
+    "socket.io": "^4.6.2"
+  }
+}
